@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1586775490184-b79f0621891f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    width: 30%;
+}
+
+.main-container {
+    width: 100%;
+    display: flex;
+    align-items: space-between;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+
+.container {
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+input {
+    margin-top: 5px;
+    letter-spacing: 0.7px;
+    font-size: large;
+}
+
+button {
+    height: 50px;
+    font-size: large;
+
+  }
