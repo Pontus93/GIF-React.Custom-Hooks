@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+<strong> SIMPLE GIF Application Using React Custom Hooks </strong>
+[![](https://i.ibb.co/1XZRHR2/Screenshot-2020-12-15-at-21-32-19.png)](#)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
